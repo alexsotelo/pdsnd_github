@@ -5,7 +5,7 @@ This file was created on may 19th 2019.
 Final Project!
 
 ### Description
-Describe what your project is about and what it does
+This is to test my knowlege in git and github.
 
 ### Files used
 Include the files used
